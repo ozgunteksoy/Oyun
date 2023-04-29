@@ -1,3 +1,3 @@
-# Sayı Tahmin Etme Oyunu javascripte yeni başlayanlar için hazırlanmıştır.
+Sayı Tahmin Etme Oyunu javascripte yeni başlayanlar için hazırlanmıştır.
 
-# Yardımlarından dolayı Barış Dede'ye teşekkür ederim.
+Yardımlarından dolayı Barış Dede'ye teşekkür ederim.
